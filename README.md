@@ -1,6 +1,9 @@
-# Next.js + Tailwind CSS Example
+# Image Gallery with Next.js, Supabase, and Tailwind CSS
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+this is an archive gallery for storing my idol ❤️
+
+
+![https-image-gallery-nextjs-supabase-rho-vercel-app 2](https://user-images.githubusercontent.com/62229971/211145516-4de11561-e248-45cc-8980-da0a3522394e.png)
 
 ## Deploy your own
 
