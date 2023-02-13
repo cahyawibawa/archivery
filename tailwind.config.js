@@ -6,6 +6,9 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      sans: ["Helvetica"],
+    },
     extend: {},
   },
   plugins: [require("@tailwindcss/aspect-ratio")],
