@@ -22,7 +22,7 @@ type Image = {
   href: string;
   imageSrc: string;
   name: string;
-  username: string;
+  // username: string;
 };
 export default function Gallery({ images }: { images: Image[] }) {
   return (
@@ -56,8 +56,8 @@ function BlurImage({ image }: { image: Image }) {
           onLoadingComplete={() => setLoading(false)}
         />
       </div>
-      <h3 className="mt-4 text-sm text-gray-700">{image.name}</h3>
-      <p className="mt-1 text-lg font-medium text-gray-900">{image.username}</p>
+      <h3 className="mt-4 font-sans text-gray-800">{image.name}</h3>
+      {/* <p className="mt-1 text-lg font-medium text-gray-900">{image.username}</p> */}
     </a>
   );
 }
