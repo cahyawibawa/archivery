@@ -3,7 +3,7 @@
 </h1>
 
 
-![https-image-gallery-nextjs-supabase-rho-vercel-app 2](https://user-images.githubusercontent.com/62229971/211145516-4de11561-e248-45cc-8980-da0a3522394e.png)
+![image](https://user-images.githubusercontent.com/62229971/218426342-730c4046-432c-4d82-83ab-1c0ffec06152.png)
 
 Archivery is a web to archive image builth with supabase as database.
 <br/>
